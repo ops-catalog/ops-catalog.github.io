@@ -12,6 +12,7 @@
       "g",
       "h1",
       "h2",
+      "h3",
       "h5",
       "head",
       "header",
@@ -186,7 +187,8 @@
       "searchResults",
       "searchToggleDesktop",
       "searchToggleMobile",
-      "socialMenu"
+      "socialMenu",
+      "what-is-oca"
     ]
   }
 }
