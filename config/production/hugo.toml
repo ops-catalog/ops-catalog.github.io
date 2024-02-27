@@ -1,0 +1,4 @@
+# Overrides for production environment
+canonifyURLs = true
+baseurl = https://ops-catalog.github.io/
+
