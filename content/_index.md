@@ -11,7 +11,12 @@ seo:
  canonical: "" # custom canonical URL (optional)
  noindex: false # false (default) or true
 ---
-### What is OCA
-A modern collaborative catalog solution to make internal SaaS possible.
+### What is Ops Catalog
+<font style="color:#01889f">your asset catalog to automate DevOps and Dev Experience workflows making
+internal SaaS possible.</font>
+
+### 
+Use many out of the box patterns or extend easily.
 ![Ops Catalog](./ops-catalog-summary.png)
+
 Explore [usecases](https://ops-catalog.github.io/specification/usecases)
