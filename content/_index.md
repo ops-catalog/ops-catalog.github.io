@@ -13,4 +13,5 @@ seo:
 ---
 ### What is OCA
 A modern collaborative catalog solution to make internal SaaS possible.
+![Ops Catalog](./ops-catalog-summary.png)
 Explore [usecases](https://ops-catalog.github.io/specification/usecases)
